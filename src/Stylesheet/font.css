@@ -1,0 +1,13 @@
+.font-div {
+  width: 90%;
+  margin: 0 auto;
+}
+.type-text-div {
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem;
+}
+.type-input {
+  width: 30%;
+  border-radius: 0.5rem;
+}

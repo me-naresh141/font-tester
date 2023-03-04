@@ -1,0 +1,9 @@
+.slider-div {
+  width: 40%;
+  border: 2px solid gray;
+  padding: 0 1rem;
+  border-radius: 0.5rem;
+}
+.slider-input {
+  width: 100%;
+}
